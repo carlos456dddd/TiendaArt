@@ -1,0 +1,3 @@
+Mi base de datos se llama "dibujosacs", dentreo de esta tengo mi tabla que se llama "productos".
+tengo 4 elementos, los cuales son: Id,Código,Nombre y Precio.
+Cada uno de los anteriores mencionados está de entero, varchar, varchar y decimal. Estos a su vez contienen caracteres 3,7,30,(6,2).
